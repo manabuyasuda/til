@@ -1,4 +1,4 @@
-# learned
+# Today I Learned
 知ったこと考えたことをIssueに記録していきます。
 
 ## Issueのルール
